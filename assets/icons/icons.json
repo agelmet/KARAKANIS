@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/nk-electrics-mykonos-logo.svg"
+ },
+ "source_md5": "73ca1604641bbefadda510104dd31d5a",
+ "version": "4b48f5be",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "be92e632566fe058802eac5ec67f474f"
+ ],
+ "made": "2026-11-23"
+}
