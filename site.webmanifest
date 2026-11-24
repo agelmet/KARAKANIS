@@ -3,8 +3,8 @@
  "short_name": "NK Electrics",
  "start_url": "./",
  "display": "standalone",
- "background_color": "#F5F4F1",
- "theme_color": "#F5F4F1",
+ "background_color": "#F4F1EB",
+ "theme_color": "#F4F1EB",
  "icons": [
   {
    "src": "assets/icons/icon-192.png",
